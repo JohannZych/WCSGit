@@ -1,1 +1,1 @@
-# WCSGit
+REMOTE
